@@ -1,0 +1,33 @@
+process,arrival,burst,priority
+P001,0,15,2
+P002,3,8,1
+P003,5,12,3
+P004,7,6,2
+P005,10,10,1
+P006,12,4,4
+```
+3. **Ctrl+S** ile kaydedin
+
+### 6️⃣ README.md Oluşturun
+
+1. **New File** → `README.md`
+2. Beşinci artifact'taki içeriği kopyalayın
+3. **Ctrl+S** ile kaydedin
+
+### 7️⃣ requirements.txt Oluşturun
+
+1. **New File** → `requirements.txt`
+2. Altıncı artifact'taki içeriği kopyalayın
+3. **Ctrl+S** ile kaydedin
+
+### 8️⃣ Dosya Yapınızı Kontrol Edin
+
+Sol panelde şu dosyaları görmelisiniz:
+```
+cpu-scheduling-project/
+├── scheduler.py
+├── algorithms.py
+├── case1.csv
+├── case2.csv
+├── README.md
+└── requirements.txt

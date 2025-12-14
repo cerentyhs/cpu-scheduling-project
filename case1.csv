@@ -1,0 +1,6 @@
+process,arrival,burst,priority
+P001,0,10,3
+P002,2,5,1
+P003,4,8,2
+P004,6,3,4
+P005,8,6,2

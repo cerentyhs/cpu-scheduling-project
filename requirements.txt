@@ -1,0 +1,14 @@
+# CPU Scheduling Algorithms Project
+# Python 3.6+ ile çalışır
+
+# Standart kütüphaneler kullanılmaktadır
+# Ekstra kurulum gerekmez
+
+# Kullanılan standart kütüphaneler:
+# - csv (Python built-in)
+# - threading (Python built-in)
+# - os (Python built-in)
+# - sys (Python built-in)
+
+# Projeyi çalıştırmak için:
+# python scheduler.py case1.csv
